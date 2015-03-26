@@ -1,0 +1,29 @@
+{
+  "name": "simpleExpressTemplate",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.10.2",
+    "connect-busboy": "0.0.2",
+    "consolidate": "^0.10.0",
+    "cookie-parser": "~1.3.3",
+    "debug": "~2.1.1",
+    "express": "~4.11.1",
+    "express-session": "^1.10.3",
+    "fs": "0.0.2",
+    "id3": "0.0.3",
+    "id3js": "^1.1.3",
+    "jsonwebtoken": "^3.2.2",
+    "mongoose": "~3.8.12",
+    "morgan": "~1.5.1",
+    "musicmetadata": "^0.6.6",
+    "nunjucks": "^1.1.0",
+    "passport": "~0.2.0",
+    "passport-local": "~1.0.0",
+    "path": "^0.11.14",
+    "serve-favicon": "~2.2.0"
+  }
+}
